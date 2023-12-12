@@ -1,2 +1,2 @@
-![Splash](/media/splash.png)
+![Banner](/media/banner.png)
 
